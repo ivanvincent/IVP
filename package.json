@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ivanvincent/IVP/issues"
   },
-  "homepage": "https://github.com/ivanvincent/IVP#readme"
+  "homepage": "https://github.com/ivanvincent/IVP#readme",
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
 }
